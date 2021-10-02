@@ -26,7 +26,7 @@ You can find me 🌐:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 - 🔭 I’m currently working in a dietetics ecommers which we collaborate between 7 people to do it
-- - ⚡ Fun fact: I like to do live broadcasts on the twitch platform
+- ⚡ Fun fact: I like to do live broadcasts on the twitch platform
 
 <!--
 **JDFgamer/JDFgamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
