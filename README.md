@@ -26,6 +26,11 @@ You can find me 🌐:
 - 🔭 I’m currently working in a dietetics ecommers which we collaborate between 7 people to do it
 - ⚡ Fun fact: I like to do live broadcasts on the twitch platform
 
+<!-- ![Pablo Garcia Github banner](Github-banner.webp) -->
+<!-- ![Pablo Garcia GitHub stats](https://github-readme-stats.vercel.app/api?username=JDFgamer&show_icons=true&theme=chartreuse-dark) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDFgamer)](https://github.com/JDFgamer/github-readme-stats) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JDFgamer&repo=Color-chartreuse-dark)](https://github.com/JDFgamer/Color-flipper) -->
+
 <!--
 **JDFgamer/JDFgamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
